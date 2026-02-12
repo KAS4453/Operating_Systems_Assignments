@@ -1,0 +1,8 @@
+This assignment is done by Kunwar Arpit Singh 22185.
+Hi! I am a child process.
+My PID is 10373.
+My Parent PID is 10372.
+This assignment is done by Kunwar Arpit Singh 22185.
+Hi! I am a parent process.
+My PID is 10372.
+My Child PID is 10373.
